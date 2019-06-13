@@ -2,7 +2,7 @@
   "name": "slides",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "unlicensed",
   "dependencies": {
     "mdx-deck": "^1.8.2"
   },
